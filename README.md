@@ -1,20 +1,37 @@
-# LiveChat
-Socket.io / MongoDB / Express JS
+# Chat App
 
-Chat App
-This is a simple chat application built with HTML, CSS, and JavaScript. Users can enter messages in the input field, which are then displayed in the message list. The app also includes a typing indicator when a user is typing a message.
+This is a simple chat application built with HTML, CSS, and express JS , MongoDb and Socket.io.
 
-Running the Code
-To run the chat app on your local machine, follow these steps:
 
-Clone the repository: git clone https://github.com/yourusername/chat-app.git
-run npm install
-run npm start 
+## Getting Started
 
-JavaScript Code
-The JavaScript code for this app is located in the app.js file. It includes functions for sending messages, displaying messages in the message list, and displaying a typing indicator. The code is well-commented and should be easy to follow.
+To run this application locally, follow these steps:
 
-If you want to make changes to the functionality of the app, you can edit the JavaScript code as needed.
+1. Clone this repository to your local machine.
+2. Navigate to the root directory of the project in your terminal.
+3. run npm  install.
+4. run npm start
 
-License
-This code is released under the MIT License. Feel free to use it however you like.
+## How to Use
+
+1. Type a message into the input field at the bottom of the page.
+2. Click the "Send" button or press the Enter key to send the message.
+3. Your message will appear in the message list above.
+4. Other users can type and send messages, which will appear in the message list.
+
+Remeber to open  2 windows to test on more than a user 
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- MongoDb
+- Socket.io
+
+## Acknowledgements
+
+This chat application was built as a learning project.
+
+Follow to see more .
+
